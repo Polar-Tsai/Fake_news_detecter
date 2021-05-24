@@ -1,5 +1,9 @@
-# Fake_news_detecter
-
+# Fake news detecter
+## 動機: 為提供使用者辨別來自海外的資訊真假度，欲設計可透過其提供之圖片、文字訊息偵測資料來源以及真假程度
+## 預期結果
+* input: 文字、圖片型文字
+* model: 
+* output: 真假比例、分析原因
 
 # Reference
 1. https://github.com/tychen5/NLP_FakeNewsDetection/blob/master/src/ProjectManage.md

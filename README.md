@@ -17,7 +17,7 @@
 3. https://github.com/Rowan1697/FakeNews
 4. https://github.com/cyang03/CHECKED/tree/master/code
 5. cofact - https://hackmd.io/@mrorz/Hy8T6nreM?type=view
-6. 
+6-1. case study: https://beta.hackfoldr.org/cofacts/https%253A%252F%252Fdatastudio.google.com%252Fopen%252F18J8jZYumsoaCPBk9bdRd97GKvi_W5v-r
 7. mygopen - https://www.mygopen.com/p/blog-page_7.html
 8. https://paperswithcode.com/paper/user-preference-aware-fake-news-detection
 9. https://www.ipshop.xyz/5426.html

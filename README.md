@@ -20,3 +20,4 @@
 6. mygopen - https://www.mygopen.com/p/blog-page_7.html
 7. https://paperswithcode.com/paper/user-preference-aware-fake-news-detection
 8. https://github.com/cyang03/CHECKED/tree/master/code
+9. 報導者:內容農場的流向與生成 https://www.twreporter.org/a/information-warfare-business-content-farm-mission

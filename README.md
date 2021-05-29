@@ -22,8 +22,8 @@
 8. https://paperswithcode.com/paper/user-preference-aware-fake-news-detection
 9. https://www.ipshop.xyz/5426.html
 10. 報導者:內容農場的流向與生成 https://www.twreporter.org/a/information-warfare-business-content-farm-mission
-    >* 利用Facebook「CrowdTangle」追蹤內容農場的下游分享平台
-    >* 利用SEO-鏈輪法騙過google搜尋，使其可保有排序極高的效果，讓使用者更容易點選到內容農場
-    >* 為了躲過CrowdTangle的查緝，內容農場會透過建立多種網域來逃避
-    >* 利用創立「自媒體」(e.g. BLUEPOWER, 觸極者, 庶民起義, jonh ce)，與中國媒體一搭一唱--->我認為是最難辨認的
+    * 利用Facebook「CrowdTangle」追蹤內容農場的下游分享平台
+    * 利用SEO-鏈輪法騙過google搜尋，使其可保有排序極高的效果，讓使用者更容易點選到內容農場
+    * 為了躲過CrowdTangle的查緝，內容農場會透過建立多種網域來逃避
+    * 利用創立「自媒體」(e.g. BLUEPOWER, 觸極者, 庶民起義, jonh ce)，與中國媒體一搭一唱--->我認為是最難辨認的
 11. 

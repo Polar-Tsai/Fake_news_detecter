@@ -4,7 +4,7 @@
 ## 預期結果
 * input: 文字、圖片型文字
 * model: 
-* output: 真假比例、分析原因
+* output: 真假比例、分析原因、用字特性(易激起閱聽者情緒?)
 
 
 ## 設立新聞媒體的黑白名單(datasets of Real & Fake)
@@ -19,15 +19,17 @@
    * 使用共50K筆資料的dataset
    * 模型: CNN, NLP, SVM, 隨機森林
 5. https://github.com/cyang03/CHECKED/tree/master/code
-6. cofact - https://hackmd.io/@mrorz/Hy8T6nreM?type=view
-7. cofact - case study: https://beta.hackfoldr.org/cofacts/https%253A%252F%252Fdatastudio.google.com%252Fopen%252F18J8jZYumsoaCPBk9bdRd97GKvi_W5v-r
-8. cofact: https://datastudio.google.com/u/0/reporting/18J8jZYumsoaCPBk9bdRd97GKvi_W5v-r/page/mVfZ
-9. mygopen - https://www.mygopen.com/p/blog-page_7.html
-10. https://paperswithcode.com/paper/user-preference-aware-fake-news-detection
-11. https://www.ipshop.xyz/5426.html
-12. 報導者:內容農場的流向與生成 https://www.twreporter.org/a/information-warfare-business-content-farm-mission
+  * 研究對象為微博中討論COVID-19相關話題的留言者，其訊息真假判斷
+  * 資料集: 344(fake) + 1776(real) = 2120
+7. cofact - https://hackmd.io/@mrorz/Hy8T6nreM?type=view
+8. cofact - case study: https://beta.hackfoldr.org/cofacts/https%253A%252F%252Fdatastudio.google.com%252Fopen%252F18J8jZYumsoaCPBk9bdRd97GKvi_W5v-r
+9. cofact: https://datastudio.google.com/u/0/reporting/18J8jZYumsoaCPBk9bdRd97GKvi_W5v-r/page/mVfZ
+10. mygopen - https://www.mygopen.com/p/blog-page_7.html
+11. https://paperswithcode.com/paper/user-preference-aware-fake-news-detection
+12. https://www.ipshop.xyz/5426.html
+13. 報導者:內容農場的流向與生成 https://www.twreporter.org/a/information-warfare-business-content-farm-mission
     * 利用Facebook「CrowdTangle」追蹤內容農場的下游分享平台
     * 利用SEO-鏈輪法騙過google搜尋，使其可保有排序極高的效果，讓使用者更容易點選到內容農場
     * 為了躲過CrowdTangle的查緝，內容農場會透過建立多種網域來逃避
     * 利用創立「自媒體」(e.g. BLUEPOWER, 觸極者, 庶民起義, jonh ce)，與中國媒體一搭一唱--->我認為是最難辨認的
-13. 
+14. 

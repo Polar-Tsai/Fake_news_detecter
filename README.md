@@ -8,6 +8,8 @@
 
 
 ## 設立新聞媒體的黑白名單(datasets of Real & Fake)
+### 白名單: 公視新聞(公廣集團)、報導者(非營利獨立媒體)、台灣事實查核中心(事實查核團隊)、MyGoPen(事實查核團隊)
+### 黑名單: 
 * 是依照什麼來建立名單?
 * mygopen: https://www.mygopen.com/p/blog-page_7.html
 

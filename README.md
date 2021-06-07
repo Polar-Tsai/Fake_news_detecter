@@ -4,7 +4,7 @@
 ## 預期結果
 * input: 文字、圖片型文字
 * model: 
-* output: 真假比例、分析原因、用字特性(易激起閱聽者情緒?)
+* output: 真假比例、分析原因、用字特性(sentiment易激起閱聽者情緒?)
 
 
 ## 設立新聞媒體的黑白名單(datasets of Real & Fake)

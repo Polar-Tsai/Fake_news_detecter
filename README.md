@@ -17,7 +17,7 @@
 
 | Title     | Description  |
 | ----------|:-------------:|
-| ID        | Number of News      |
+| Author    | Writer of News      |
 | Label     | Real = 1, Fake = 0
 | Domain    | News publisher's site name      |
 | Date      | Published Date      |  
@@ -25,6 +25,7 @@
 | Headline  | Headline of News            |
 | Content   | Article or body of the news |
 
+Category: International, Econamic, Politics, Technology, Finance, Education, Miscellaneous
 
 
 

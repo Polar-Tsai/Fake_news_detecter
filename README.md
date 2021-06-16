@@ -17,12 +17,12 @@
 
 | Title     | Description  |
 | ----------|:-------------:|
-| Author    | Writer of News      |
 | Label     | Real = 1, Fake = 0
-| Domain    | News publisher's site name      |
-| Date      | Published Date      |  
-| Category  | Category of News            |
 | Headline  | Headline of News            |
+| Link      | url of News |
+| Date      | Published Date      |  
+| Source    | Source of the news. (One who can verify the claim of the news)| 
+| Category  | Category of News            |
 | Content   | Article or body of the news |
 
 Category: International, Econamic, Politics, Technology, Finance, Education, Miscellaneous

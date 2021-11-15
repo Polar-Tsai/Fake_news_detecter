@@ -30,6 +30,9 @@ https://www.thenewslens.com/
 
 Category: International, Econamic, Politics, Technology, Finance, Education, Miscellaneous
 
+## 資料前處理
+### 選擇skipTagger
+
 
 
 # Reference
